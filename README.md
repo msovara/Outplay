@@ -1,1 +1,1 @@
-# The alogithm for a people-artist centered funding model driven by data insights and aticifial intelligence systems
+# The alogithm for a people-artist centred funding model driven by data insights and artificial intelligence systems
